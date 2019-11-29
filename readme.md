@@ -10,7 +10,7 @@ as monitor both task and worker events.
 This library depends upon the following packages:
 
 - github.com/streadway/amqp
-- github.com/Sirupsen/logrus
+- github.com/sirupsen/logrus
 - github.com/nu7hatch/gouuid
 - github.com/mailru/easyjson
 
